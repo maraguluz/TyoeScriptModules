@@ -12,3 +12,4 @@ console.log(`You just rolled a ${sixSideRoll}`)
 
 
 console.log(diagonalLength(4, 3))
+console.log(`The square of 12 is ${square(12)}`)
